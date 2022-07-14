@@ -118,7 +118,7 @@ Test Assembly -> Test Class -> Method1 & Method2
 10. AssemblyCleanup()
 ```
 
-![demo](Resources/Execution order of initialize and cleanup methods.JPG)
+![demo](images/ExecutionOrder.JPG)
 
 
 ### Attributes help to organize unit tests
